@@ -63,10 +63,10 @@ This folder contains:
 
 You can open App_v1.mlapp directly in MATLAB App Designer for further development, parameter tuning, or function extension.
 
-**For detailed information about the interface, please refer to the paper “Fine-Grained Motor Imagery EEG Tool.”**
++ **For detailed information about the interface, please refer to the paper “Fine-Grained Motor Imagery EEG Tool.”**
 
-**For detailed information about the decoding algorithms, please refer to the paper “Fine-Grained Spatial–Frequency–Time Framework for Motor Imagery Brain–Computer Interface.”**
++ **For detailed information about the decoding algorithms, please refer to the paper “Fine-Grained Spatial–Frequency–Time Framework for Motor Imagery Brain–Computer Interface.”**
 
-**The reference data for testing are provided in the Example_data folder, which users can download and use for evaluation.**
++ **The reference data for testing are provided in the Example_data folder, which users can download and use for evaluation.**
 
 
