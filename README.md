@@ -69,4 +69,7 @@ You can open App_v1.mlapp directly in MATLAB App Designer for further developmen
 
 + **The reference data for testing are provided in the Example_data folder, which users can download and use for evaluation.**
 
+# Corresponding Author
+If there is any technical issue, please contact the corresponding author Rui Zhang: 202320399@mail.sdu.edu.cn
+
 
