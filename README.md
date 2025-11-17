@@ -1,5 +1,5 @@
-# FGMI-Tool: A Matlab-based Fine-Grained Motor Imagery EEG Decoding Tool v1.0
-This work develops Fine-Grained Motor Imagery EEG Tool (FGMI-Tool), **a MATLAB-based user-friendly toolbox designed for accurate, flexible, and interpretable EEG decoding in MI paradigms**. It enables configurable temporal, frequency, and spatial segmentation, integrates CSP and div-CSP feature extraction methods, and supports multiple linear classifiers including SVM, ridge regression, and lasso regression. 
+# SFTEEG-Tool: A Spatial-Frequency-Temporal EEG Analysis Tool for Motor Imagery Brain-Computer Interfaces v1.0
+This work develops a Spatial-Frequency-Temporal EEG Analysis Tool (SFTEEG-Tool), **a MATLAB-based user-friendly toolbox designed for accurate, flexible, and interpretable EEG decoding in MI paradigms**. It enables configurable temporal, frequency, and spatial segmentation, integrates CSP and div-CSP feature extraction methods, and supports multiple linear classifiers including SVM, ridge regression, and lasso regression. 
 
 
 <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/93e0435c-fac7-44db-8433-240858aa02f2" />
@@ -15,7 +15,7 @@ Please cite the tool using this website repository and the manuscript:
 
 + G. Liu, R. Zhang, L. Tian and W. Zhou, "Fine-Grained Spatial-Frequency-Time Framework for Motor Imagery Brain–Computer Interface," in IEEE Journal of Biomedical and Health Informatics, vol. 29, no. 6, pp. 4121-4133, June 2025, doi: 10.1109/JBHI.2025.3536212.
  
-+ R. Zhang, G. Liu, Y. Wang, "Fine-Grained Motor Imagery EEG Tool" (Under submission to JoVE)
++ R. Zhang, G. Liu, Y. Wang, "SFTEEG-Tool: A Spatial-Frequency-Temporal EEG Analysis Tool for Motor Imagery Brain-Computer Interfaces" (Under submission to JoVE)
 
 # Operating Environments
 System:
@@ -31,10 +31,10 @@ Software:
 If you only wish to use the application directly, please download the packaged app from the Usage folder:
 FGMI-Tool.mlappinstall.
 
-(a) Open MATLAB → navigate to Home → Add-Ons → Install App → Select File, and choose FGMI-Tool_v1.0.mlappinstall.
+(a) Open MATLAB → navigate to Home → Add-Ons → Install App → Select File, and choose SFTEEG-Tool_v1.0.mlappinstall.
     Alternatively, you may double-click the file to install it automatically.
 
-(b) After installation, open MATLAB → go to the APPS tab → locate and click FGMI-Tool to launch the interface.
+(b) After installation, open MATLAB → go to the APPS tab → locate and click SFTEEG-Tool to launch the interface.
     The app provides a complete workflow for MI-EEG decoding, including:
 
 + Data loading and preprocessing 
@@ -63,7 +63,7 @@ This folder contains:
 
 You can open App_v1.mlapp directly in MATLAB App Designer for further development, parameter tuning, or function extension.
 
-+ **For detailed information about the interface, please refer to the paper “Fine-Grained Motor Imagery EEG Tool.”**
++ **For detailed information about the interface, please refer to the paper “SFTEEG-Tool: A Spatial-Frequency-Temporal EEG Analysis Tool for Motor Imagery Brain-Computer Interfaces.”**
 
 + **For detailed information about the decoding algorithms, please refer to the paper “Fine-Grained Spatial–Frequency–Time Framework for Motor Imagery Brain–Computer Interface.”**
 
